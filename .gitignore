@@ -1,0 +1,6 @@
+db.sqlite3
+media
+.idea
+AI/similarity
+AI/df
+AI/spotify_millsongdata.csv
